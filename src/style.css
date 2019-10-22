@@ -1,0 +1,14 @@
+#content{
+    /* background: url('./restaurant.jpg');
+    background-repeat: no-repeat;
+    width: 1000px;
+    background-size: auto; */
+}
+
+h1,p{
+    text-align: center;
+    color: brown;
+}
+img{
+    width: 100%;
+}
