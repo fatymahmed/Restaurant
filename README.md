@@ -1,4 +1,4 @@
-# Tic tac toe
+# Restaurant page
 Using javascript to implement a simple restaurant homepage
 
 Used:
